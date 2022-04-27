@@ -1,0 +1,35 @@
+[
+
+    {
+      "question": "What is the most Popular Programming Language?",
+      "choice1": "Python",
+      "choice2": "javascript",
+      "choice3": "C++",
+      "choice4": "PHP",
+      "answer": 1
+    },
+    {
+      "question": "A loop which is within another loop is known as what?",
+      "choice1": "Double Loops",
+      "choice2": "A loop in loop",
+      "choice3": "Nested Loop",
+      "choice4": "Stacked Loop",
+      "answer": 3
+    },
+    {
+      "question": "What data struture uses LIFO?",
+      "choice1": "int",
+      "choice2": "Array",
+      "choice3": "Queues",
+      "choice4": "Stacks",
+      "answer": 4
+    },
+    {
+        "question": "What is the acronym of FIFO?",
+        "choice1": "Few In First Out",
+        "choice2": "First in First Out",
+        "choice3": "First in Few Out",
+        "choice4": "Few In Few out",
+        "answer": 2
+      }
+  ]
